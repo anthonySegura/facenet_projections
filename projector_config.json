@@ -6,10 +6,10 @@
           1800,
           128
         ],
-        "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-        "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv",
+        "tensorPath": "https://raw.githubusercontent.com/anthonySegura/facenet_projections/master/tensors.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/anthonySegura/facenet_projections/master/metadata.tsv",
         "sprite": {
-          "imagePath": "https://github.com/.../optional.sprite.png",
+          "imagePath": "https://github.com/anthonySegura/facenet_projections/blob/master/sprite.jpg",
           "singleImageDim": [
             160,
             160
