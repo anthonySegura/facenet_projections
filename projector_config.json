@@ -11,8 +11,8 @@
         "sprite": {
           "imagePath": "https://github.com/anthonySegura/facenet_projections/blob/master/sprite.jpg",
           "singleImageDim": [
-            160,
-            160
+            134,
+            134
           ]
         }
       }
