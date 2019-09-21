@@ -9,7 +9,7 @@
         "tensorPath": "https://raw.githubusercontent.com/anthonySegura/facenet_projections/master/tensors.tsv",
         "metadataPath": "https://raw.githubusercontent.com/anthonySegura/facenet_projections/master/metadata.tsv",
         "sprite": {
-          "imagePath": "https://github.com/anthonySegura/facenet_projections/blob/master/sprite.jpg",
+          "imagePath": "https://raw.githubusercontent.com/anthonySegura/facenet_projections/master/sprite.jpg",
           "singleImageDim": [
             134,
             134
